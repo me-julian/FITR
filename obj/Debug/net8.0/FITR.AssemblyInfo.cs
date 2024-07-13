@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FITR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45f309e2fcbf5e087527105d830f5790584e87a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ec756c7c9403d11e6b2cea643dfd117b4796ef6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FITR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FITR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
