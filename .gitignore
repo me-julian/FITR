@@ -1,14 +1,9 @@
-/bin
-
 *.swp
 *.*~
 project.lock.json
 .DS_Store
 *.pyc
 nupkg/
-
-# Visual Studio Code
-.vscode/
 
 # Rider
 .idea/
@@ -29,6 +24,7 @@ nupkg/
 *.sln.docstates
 
 # Build results
+/bin
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
