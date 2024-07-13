@@ -1,0 +1,15 @@
+C:\git\FITR\bin\Debug\net8.0\FITR.exe
+C:\git\FITR\bin\Debug\net8.0\FITR.deps.json
+C:\git\FITR\bin\Debug\net8.0\FITR.runtimeconfig.json
+C:\git\FITR\bin\Debug\net8.0\FITR.dll
+C:\git\FITR\bin\Debug\net8.0\FITR.pdb
+C:\git\FITR\obj\Debug\net8.0\FITR.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\FITR\obj\Debug\net8.0\FITR.AssemblyInfoInputs.cache
+C:\git\FITR\obj\Debug\net8.0\FITR.AssemblyInfo.cs
+C:\git\FITR\obj\Debug\net8.0\FITR.csproj.CoreCompileInputs.cache
+C:\git\FITR\obj\Debug\net8.0\FITR.sourcelink.json
+C:\git\FITR\obj\Debug\net8.0\FITR.dll
+C:\git\FITR\obj\Debug\net8.0\refint\FITR.dll
+C:\git\FITR\obj\Debug\net8.0\FITR.pdb
+C:\git\FITR\obj\Debug\net8.0\FITR.genruntimeconfig.cache
+C:\git\FITR\obj\Debug\net8.0\ref\FITR.dll

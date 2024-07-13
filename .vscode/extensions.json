@@ -1,7 +1,7 @@
 {
     "recommendations": [
-        "esbenp.prettier-vscode",
-        "yoavbls.pretty-ts-errors",
-        "bradlc.vscode-tailwindcss"
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit"
     ]
 }
