@@ -27,6 +27,22 @@ do
     switch (menuSelection)
     {
         case "1":
+
+            string[] searchingIcons = { " |", " /", "--", " \\", " *" };
+
+            System.ConsoleKey? exitSelection;
+            exitSelection = Console.ReadKey(intercept: true);
+            do
+            {
+                foreach (string icon in searchingIcons)
+                {
+                    Console.Write($"\rRecording... {icon}");
+                    Thread.Sleep(100);
+                }
+                // Console.Write($"\r{new String(' ', Console.BufferWidth)}");
+            }
+            while (exitSelection != "q");
+
             // list all pet info
             // for (int i = 0; i < maxPets; i++)
             // {
@@ -101,7 +117,7 @@ do
             //                         Console.Write($"\rsearching our dog {ourAnimals[i, 3]} for {term.Trim()} {icon} {j.ToString()}");
             //                         Thread.Sleep(100);
             //                     }
-                                
+
             //                     Console.Write($"\r{new String(' ', Console.BufferWidth)}");
             //                 }
 
@@ -117,7 +133,7 @@ do
             //                 }
             //             }
             //         }
-                    
+
             //         // #3d if the current dog is match, display the dog's info
             //         if (matchesCurrentDog)
             //         {
@@ -139,5 +155,5 @@ do
         default:
             break;
     }
-} 
+}
 while (menuSelection != "exit");
